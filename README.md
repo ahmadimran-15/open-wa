@@ -98,7 +98,7 @@ Built on a **pluggable architecture**, OpenWA lets you swap database engines (SQ
 
 ```bash
 # Clone and start
-git clone https://github.com/rmyndharis/OpenWA.git
+git clone https://github.com/ahmadimran-15/open-wa.git
 cd OpenWA
 docker compose -f docker-compose.dev.yml up -d
 
@@ -112,7 +112,7 @@ docker compose -f docker-compose.dev.yml up -d
 
 ```bash
 # Clone repository
-git clone https://github.com/rmyndharis/OpenWA.git
+git clone https://github.com/ahmadimran-15/open-wa.git
 cd OpenWA
 
 # Install dependencies (includes dashboard)
@@ -310,10 +310,10 @@ See [LICENSE](./LICENSE) for details.
 
 **OpenWA** – Free, Open Source WhatsApp API Gateway
 
-[📖 Documentation](./docs/README.md) · [🔌 API Docs](http://localhost:2785/api/docs) · [🐛 Report Bug](https://github.com/rmyndharis/OpenWA/issues) · [💡 Request Feature](https://github.com/rmyndharis/OpenWA/issues)
+[📖 Documentation](./docs/README.md) · [🔌 API Docs](http://localhost:2785/api/docs) · [🐛 Report Bug](https://github.com/ahmadimran-15/open-wa/issues) · [💡 Request Feature](https://github.com/ahmadimran-15/open-wa/issues)
 
 <br/>
 
-<sub>Made with ❤️ by <a href="https://github.com/rmyndharis">Yudhi Armyndharis</a> and the OpenWA Community</sub>
+<sub>Made with ❤️ by <a href="https://github.com/ahmadimran-15">Ahmad Imran</a></sub>
 
 </div>
